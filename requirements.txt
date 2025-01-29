@@ -1,9 +1,8 @@
-numpy
-pandas
-matplotlib
-Pillow
-scikit-learn
-tensorflow
-keras
-jupyter
-optree
+tensorflow==2.13.0
+keras==2.13.0
+numpy==1.23.5
+matplotlib==3.7.1
+scikit-learn==1.1.2
+Pillow==9.3.0
+h5py==3.8.0
+
